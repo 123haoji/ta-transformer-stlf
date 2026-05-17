@@ -1,0 +1,7 @@
+Model,Params,InferenceLatency_ms,TrainSec_per_epoch,Notes
+ARIMA,NaN,NaN,NaN,"per-bus (p=3, d=1, q=3) auto-selected by AICc"
+LSTM,205828,14.85474375,NaN,"2 layers x 128 hidden + FC(128,4)"
+Transformer,132288,1.331446875,NaN,"d=64, M=4, K_s=0, K_t=2 (beta=0)"
+TA_Transformer,132288,1.0105371875,NaN,"d=64, M=4, K_s=2, K_t=2 (beta=1)"
+PureGAT,66752,0.4930325,NaN,"d=64, K_s=2, K_t=0 (ablation c)"
+CNN_LSTM,66752,0.59721125,NaN,"K_s=0, K_t=2 (no spatial)"

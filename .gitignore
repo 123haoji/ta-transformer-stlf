@@ -1,0 +1,39 @@
+# --- MATLAB transient ---
+*.asv
+*.m~
+*.mex*
+slprj/
+*.autosave
+
+# --- Heavy cached result tensors (regenerable; ship via GitHub Release / Zenodo) ---
+results/tables/*.mat
+results/tables_paper/*.mat
+*.mat.lock
+
+# --- Local data caches (raw data is fetched, not version-controlled) ---
+data/raw/
+data/cache/
+data/processed/*.mat
+data/processed/*.parquet
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- IDE / editors ---
+.vscode/
+.idea/
+.matlab/
+*.swp
+*.swo
+
+# --- Build / log noise ---
+*.log
+*.out
+*.err
+__pycache__/
+
+# --- Historic Chinese-named figure dirs (already removed) ---
+results/图片/
+results/图片2/

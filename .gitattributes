@@ -1,0 +1,22 @@
+# Default: text with LF line endings on checkout, normalised on commit
+* text=auto eol=lf
+
+# MATLAB sources are text
+*.m       text eol=lf
+*.mlx     binary
+
+# Markdown / docs / config
+*.md      text eol=lf
+*.cff     text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+LICENSE   text eol=lf
+
+# Tables shipped in-repo
+*.csv     text eol=lf
+
+# Binary assets
+*.pdf     binary
+*.png     binary
+*.jpg     binary
+*.mat     binary

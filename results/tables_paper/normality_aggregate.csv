@@ -1,0 +1,6 @@
+Model,Lilliefors_p,Verdict
+ARIMA,0.001,non-normal
+LSTM,0.001,non-normal
+CNN_LSTM,0.001,non-normal
+Transformer,0.001,non-normal
+TA_Transformer,0.001,non-normal

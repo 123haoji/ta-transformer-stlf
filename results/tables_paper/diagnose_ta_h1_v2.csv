@@ -1,0 +1,2 @@
+Tag,LR,Seed,MAPE_percent,WAPE_percent,RMSE,R2,PH_MAPE_percent
+D-verify,0.001,2,11.76564,11.0981,739.9612,0.6968949,14.29186

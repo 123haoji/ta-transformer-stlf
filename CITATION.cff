@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "TA-Transformer: Topology-Aware Transformer for Short-Term Load Forecasting in Residential Energy Communities"
+message: "If you use this software, please cite both the software and the accompanying journal article."
+type: software
+license: MIT
+repository-code: "https://github.com/123haoji/ta-transformer-stlf"
+url: "https://github.com/123haoji/ta-transformer-stlf"
+authors:
+  - family-names: "Lu"
+    given-names: "Shan min"
+    email: "1923332419@qq.com"
+keywords:
+  - short-term load forecasting
+  - topology-aware transformer
+  - graph attention network
+  - residential energy community
+  - hierarchical forecasting
+  - UMass Smart*
+  - IEEE case33bw
+preferred-citation:
+  type: article
+  title: "Multi-Level Short-Term Load Forecasting for Residential Energy Communities: A Topology-Aware Transformer Benchmark"
+  journal: "Energies"
+  publisher:
+    name: "MDPI"
+  year: 2026
+  volume: 1
+  issue: 1
+  doi: "10.3390/enXXXXXXXX"
+  authors:
+    - family-names: "Lu"
+      given-names: "Shan min"

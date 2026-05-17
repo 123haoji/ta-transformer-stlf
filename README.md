@@ -6,7 +6,8 @@
 
 Reference implementation accompanying the manuscript
 **"Multi-Level Short-Term Load Forecasting for Residential Energy Communities:
-A Topology-Aware Transformer Benchmark"** (Lu, 2026, *manuscript under review*).
+A Topology-Aware Transformer Benchmark"** (*manuscript under review;
+author identification withheld during peer review*).
 
 We benchmark five forecasting models (ARIMA, LSTM, CNN-LSTM, vanilla
 Transformer, and the proposed **Topology-Aware Transformer**) plus a
@@ -170,14 +171,14 @@ provided here once it is accepted. In the meantime, please cite this
 software repository and treat the manuscript as unpublished:
 
 ```bibtex
-@unpublished{lu2026taformer,
+@unpublished{anon2026taformer,
   title  = {Multi-Level Short-Term Load Forecasting for Residential Energy
             Communities: A Topology-Aware Transformer Benchmark},
-  author = {Lu, Shanmin},
+  author = {{Anonymous (manuscript under review)}},
   year   = {2026},
-  note   = {Manuscript submitted for publication. The BibTeX entry above
-            will be updated to {@article{}} with the publisher, volume, and
-            DOI once the manuscript is accepted.}
+  note   = {Manuscript submitted for publication. Author identification,
+            the publishing journal, volume, and DOI will be populated
+            here upon acceptance.}
 }
 ```
 

@@ -1,7 +1,7 @@
 # 📊 论文实验数据完整索引
 
 > **最后更新**: 2026-05-15
-> **目标期刊**: MDPI *Energies*
+> **Target venue**: peer-reviewed journal (under review)
 > **状态**: 实验数据收集 ≈ 95% 完成（Stage 2/2b 已 3-seed，含 PureGAT ablation；显著性、假日、复杂度三类分析齐备）。剩余：架构图 Fig 1、Multi-horizon 表（可选）
 
 ---
@@ -11,9 +11,9 @@
 | 项目 | 内容 |
 |------|------|
 | **当前标题** | Multi-Level Short-Term Load Forecasting for Residential Energy Communities: A Topology-Aware Transformer with E-Bike Charging Penetration Analysis |
-| **目标期刊** | Energies (MDPI) — Q1 |
+| **目标场所** | peer-reviewed journal (manuscript under review) |
 | **核心模型** | TA-Transformer (Topology-Aware Transformer) |
-| **代码路径** | `E:\my_code\latex_paper\PIP_example\组会\电网论文\Energies\matlab_workspace\` |
+| **代码路径** | `<local workspace>` (paths anonymised for public release) |
 
 ---
 

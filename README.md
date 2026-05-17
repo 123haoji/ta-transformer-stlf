@@ -4,9 +4,9 @@
 [![MATLAB R2024a](https://img.shields.io/badge/MATLAB-R2024a-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)](#citation)
 
-Reference implementation for the *Energies* article
+Reference implementation accompanying the manuscript
 **"Multi-Level Short-Term Load Forecasting for Residential Energy Communities:
-A Topology-Aware Transformer Benchmark"** (Lu et al., 2026).
+A Topology-Aware Transformer Benchmark"** (Lu, 2026, *manuscript under review*).
 
 We benchmark five forecasting models (ARIMA, LSTM, CNN-LSTM, vanilla
 Transformer, and the proposed **Topology-Aware Transformer**) plus a
@@ -165,19 +165,19 @@ refinement on a $k$-means-derived adjacency.
 
 ## Citation
 
-If you use this code or build on the benchmark, please cite both the paper
-and the software (`CITATION.cff`):
+The manuscript is currently under peer review; a final citation will be
+provided here once it is accepted. In the meantime, please cite this
+software repository and treat the manuscript as unpublished:
 
 ```bibtex
-@article{lu2026taformer,
-  title   = {Multi-Level Short-Term Load Forecasting for Residential Energy
-             Communities: A Topology-Aware Transformer Benchmark},
-  author  = {Lu, Shanmin},
-  journal = {Energies},
-  year    = {2026},
-  volume  = {1},
-  number  = {1},
-  doi     = {10.3390/enXXXXXXXX}
+@unpublished{lu2026taformer,
+  title  = {Multi-Level Short-Term Load Forecasting for Residential Energy
+            Communities: A Topology-Aware Transformer Benchmark},
+  author = {Lu, Shanmin},
+  year   = {2026},
+  note   = {Manuscript submitted for publication. The BibTeX entry above
+            will be updated to {@article{}} with the publisher, volume, and
+            DOI once the manuscript is accepted.}
 }
 ```
 

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "TA-Transformer: Topology-Aware Transformer for Short-Term Load Forecasting in Residential Energy Communities"
-message: "If you use this software, please cite both the software and the accompanying journal article."
+message: "If you use this software, please cite this repository. The accompanying manuscript is under peer review; a final journal citation will replace the placeholder below once it is accepted."
 type: software
 license: MIT
 repository-code: "https://github.com/123haoji/ta-transformer-stlf"
@@ -18,15 +18,10 @@ keywords:
   - UMass Smart*
   - IEEE case33bw
 preferred-citation:
-  type: article
+  type: unpublished
   title: "Multi-Level Short-Term Load Forecasting for Residential Energy Communities: A Topology-Aware Transformer Benchmark"
-  journal: "Energies"
-  publisher:
-    name: "MDPI"
   year: 2026
-  volume: 1
-  issue: 1
-  doi: "10.3390/enXXXXXXXX"
+  notes: "Manuscript submitted for publication; the journal, volume, and DOI fields will be filled in upon acceptance."
   authors:
     - family-names: "Lu"
       given-names: "Shanmin"

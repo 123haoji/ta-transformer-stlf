@@ -1,9 +1,10 @@
 # Requirements
 
-This repository accompanies the *Energies* paper
+This repository accompanies the manuscript
 *"Multi-Level Short-Term Load Forecasting for Residential Energy Communities:
-A Topology-Aware Transformer Benchmark."* It targets the exact environment
-used for the experiments reported in §4.5 of the paper.
+A Topology-Aware Transformer Benchmark"* (Lu, 2026, *under review*). It
+targets the exact environment used for the experiments reported in §4.5 of
+the manuscript.
 
 ## Mandatory
 

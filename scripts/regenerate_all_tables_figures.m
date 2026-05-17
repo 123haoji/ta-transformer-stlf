@@ -2,7 +2,7 @@ function regenerate_all_tables_figures(varargin)
 %REGENERATE_ALL_TABLES_FIGURES  One-click reproduction of every paper artefact.
 %
 %   This is the script promised in §dataavailability of the accompanying
-%   Energies paper. Given that the upstream stages
+%   manuscript. Given that the upstream stages
 %   (run_paper / exp1 / exp2 / exp2b / exp3) have already produced their
 %   *.mat caches under results/tables/, this script walks the cache and
 %   re-emits every CSV (results/tables_paper/) and PDF

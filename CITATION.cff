@@ -7,7 +7,7 @@ repository-code: "https://github.com/123haoji/ta-transformer-stlf"
 url: "https://github.com/123haoji/ta-transformer-stlf"
 authors:
   - family-names: "Lu"
-    given-names: "Shan min"
+    given-names: "Shanmin"
     email: "1923332419@qq.com"
 keywords:
   - short-term load forecasting

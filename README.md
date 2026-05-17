@@ -172,7 +172,7 @@ and the software (`CITATION.cff`):
 @article{lu2026taformer,
   title   = {Multi-Level Short-Term Load Forecasting for Residential Energy
              Communities: A Topology-Aware Transformer Benchmark},
-  author  = {Lu, Shan min},
+  author  = {Lu, Shanmin},
   journal = {Energies},
   year    = {2026},
   volume  = {1},
